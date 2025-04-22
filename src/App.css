@@ -4,6 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+#inputBox{
+  padding: 10px 20px;
+  border-radius: 10px;
+ 
+}
 
 .logo {
   height: 6em;

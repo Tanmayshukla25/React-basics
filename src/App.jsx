@@ -13,8 +13,7 @@ function App() {
 
   return (
     <>
-      <input type="text"value={inputText}onChange={DataShow}placeholder="Enter your Text"
-      />
+      <input type="text" id='inputBox' value={inputText}onChange={DataShow}placeholder="Enter your Text"/>
       <h2>{storeData}</h2>
     </>
   );
